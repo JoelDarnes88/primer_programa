@@ -10,7 +10,7 @@ else:
     number = int(input("intentalo de nuevo, tu puedes"))
 
     if number == int(number_to_guess):
-        print("has acetado a la segunda eres todo un pro")
+        print("has acetado a la segunda eres toodo un pro")
     else:
         print("has fallado el 2n intento!")
         number = int(input("intentalo de nuevo craaack, solo llevas 2 intentos"))
